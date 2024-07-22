@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1",
+    "title": "Summer Sale Now On!",
+    "body": "Enjoy up to 50% off on selected items in our summer sale.",
+    "author_name": "Jane Doe",
+    "channel_name": "Sales",
+    "post_link": "https://example.com/summer-sale",
+    "importance_level": "High",
+    "status": "Published",
+    "video_link": "https://example.com/summer-sale-video",
+    "images": [
+      {
+        "id": "img1",
+        "image_url": "https://example.com/images/sale1.jpg"
+      },
+      {
+        "id": "img2",
+        "image_url": "https://example.com/images/sale2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Weekly Tech Update",
+    "body": "Catch up on the latest tech news and trends.",
+    "author_name": "John Smith",
+    "channel_name": "Technology",
+    "post_link": "https://example.com/tech-update",
+    "importance_level": "Medium",
+    "status": "Draft",
+    "video_link": "https://example.com/tech-update-video",
+    "images": [
+      {
+        "id": "img3",
+        "image_url": "https://example.com/images/tech1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Fitness Tips for the Week",
+    "body": "Learn how to stay fit and healthy with our weekly fitness tips.",
+    "author_name": "Emily Clark",
+    "channel_name": "Health",
+    "post_link": "https://example.com/fitness-tips",
+    "importance_level": "Low",
+    "status": "Published",
+    "video_link": "https://example.com/fitness-tips-video",
+    "images": [
+      {
+        "id": "img4",
+        "image_url": "https://example.com/images/fitness1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Cooking Recipes: July Edition",
+    "body": "Discover new and exciting recipes to try this month.",
+    "author_name": "Michael Brown",
+    "channel_name": "Cooking",
+    "post_link": "https://example.com/cooking-recipes",
+    "importance_level": "Medium",
+    "status": "Published",
+    "video_link": "https://example.com/cooking-recipes-video",
+    "images": [
+      {
+        "id": "img5",
+        "image_url": "https://example.com/images/cooking1.jpg"
+      },
+      {
+        "id": "img6",
+        "image_url": "https://example.com/images/cooking2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Travel Destinations for 2024",
+    "body": "Explore the top travel destinations for the upcoming year.",
+    "author_name": "Sarah Lee",
+    "channel_name": "Travel",
+    "post_link": "https://example.com/travel-destinations",
+    "importance_level": "High",
+    "status": "Draft",
+    "video_link": "https://example.com/travel-destinations-video",
+    "images": [
+      {
+        "id": "img7",
+        "image_url": "https://example.com/images/travel1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Financial Planning Tips",
+    "body": "Get expert advice on how to manage your finances effectively.",
+    "author_name": "Robert Wilson",
+    "channel_name": "Finance",
+    "post_link": "https://example.com/financial-tips",
+    "importance_level": "High",
+    "status": "Published",
+    "video_link": "https://example.com/financial-tips-video",
+    "images": [
+      {
+        "id": "img8",
+        "image_url": "https://example.com/images/finance1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "New Arrivals: Fashion Trends",
+    "body": "Check out the latest fashion trends and new arrivals.",
+    "author_name": "Laura Johnson",
+    "channel_name": "Fashion",
+    "post_link": "https://example.com/fashion-trends",
+    "importance_level": "Medium",
+    "status": "Draft",
+    "video_link": "https://example.com/fashion-trends-video",
+    "images": [
+      {
+        "id": "img9",
+        "image_url": "https://example.com/images/fashion1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Book Recommendations for July",
+    "body": "Find out which books are a must-read this month.",
+    "author_name": "Chris Martin",
+    "channel_name": "Books",
+    "post_link": "https://example.com/book-recommendations",
+    "importance_level": "Low",
+    "status": "Published",
+    "video_link": "https://example.com/book-recommendations-video",
+    "images": [
+      {
+        "id": "img10",
+        "image_url": "https://example.com/images/book1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Gardening Tips for Beginners",
+    "body": "Learn how to start your own garden with these beginner tips.",
+    "author_name": "Anna White",
+    "channel_name": "Gardening",
+    "post_link": "https://example.com/gardening-tips",
+    "importance_level": "Medium",
+    "status": "Published",
+    "video_link": "https://example.com/gardening-tips-video",
+    "images": [
+      {
+        "id": "img11",
+        "image_url": "https://example.com/images/gardening1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "DIY Home Improvement Projects",
+    "body": "Discover fun and easy home improvement projects you can do yourself.",
+    "author_name": "David Green",
+    "channel_name": "Home Improvement",
+    "post_link": "https://example.com/diy-projects",
+    "importance_level": "High",
+    "status": "Draft",
+    "video_link": "https://example.com/diy-projects-video",
+    "images": [
+      {
+        "id": "img12",
+        "image_url": "https://example.com/images/diy1.jpg"
+      },
+      {
+        "id": "img13",
+        "image_url": "https://example.com/images/diy2.jpg"
+      }
+    ]
+  }
+]
