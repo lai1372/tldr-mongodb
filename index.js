@@ -1,12 +1,13 @@
 const express = require("express");
 const app = express();
 const runDB = require("./connection");
+const routes = require("./routes");
+const cors = require("cors");
 
 const port = 3000;
 
-app.get("/", function (req, res) {
-  res.send("Hello World");
-});
+app.use(routes);
+app.use(cors());
 
 app.listen(port, async () => {
   try {
