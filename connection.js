@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 require("dotenv").config();
 
-// Replace the following with your Atlas connection string
 const url = `mongodb+srv://${process.env.USERNAME}:${process.env.PASSWORD}@tldrdb.nlq36ds.mongodb.net/?retryWrites=true&w=majority&appName=TLDRDB`;
 
 async function runDB() {
