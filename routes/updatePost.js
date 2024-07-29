@@ -24,7 +24,7 @@ router.put("/:id", async (req, res) => {
     };
 
     // checking if the post exists and delete
-    await Post.findByIdAndUpdate(postId, newPost);
+    await Post.findOneAndUpdate({ id: postId }, newPost);
 
     // success status
     return res.status(200).send(`${postId} is successfully updated.`);

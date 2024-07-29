@@ -10,7 +10,7 @@ router.delete("/:id", async (req, res) => {
     if (!postId) return res.status(400).send("Post id required.");
 
     // checking if the post exists and delete
-    await Post.findByIdAndDelete(postId);
+    await Post.findOneAndDelete({ id: postId });
 
     // success status
     return res.status(200).send(`${postId} is successfully deleted.`);
