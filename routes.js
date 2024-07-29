@@ -1,8 +1,7 @@
-const express = require("express");
-const router = express.Router();
+const addPostRoute = require("./routes/addPost");
 
-router.get("/", function (req, res) {
-  res.send("Hello World");
-});
+const mapToRoutes = (app) => {
+  app.use("/api/posts", addPostRoute);
+};
 
-module.exports = router;
+module.exports = mapToRoutes;
