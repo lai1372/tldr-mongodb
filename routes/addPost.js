@@ -19,7 +19,7 @@ router.post("/", (req, res) => {
       video_link: req.body.video_link,
       images: req.body.images,
     });
-    post.save();
+    post.save(); // await
     res.status(201);
     res.send("POST has been added successfully");
   } catch (err) {
